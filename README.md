@@ -1,4 +1,9 @@
 # E06b-Tiles
+Hello everyone, this is Hua Zhao. For the assignment, I have changed the map.tmx with tiled. I created a map for small aliens to move around. In the map, some objects are obstcales and some of them are coins. It is your time to find it out!
+
+Enjoy.
+
+
 Playing with the Tiled Map Editor
 
 This is an opportunity for you to experiment with using the Tiled Map Editor to build a 2D platformer.
